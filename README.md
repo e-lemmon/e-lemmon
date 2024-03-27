@@ -1,7 +1,8 @@
-<h1 align="right">Hi 👋, I'm Elena</h1>
-- 📫 How to reach me elenalemmon@gmail.com
+<h1 align="left">Hi 👋, I'm Elena</h1>
+📫 elenalemmon@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+### Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/elemmon)
 <p align="left">
 </p>
 
