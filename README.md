@@ -5,8 +5,8 @@ Junior QA engineer 👩🏻‍💻
 ------------------
 
 *   🌍  I'm based in Kazan, Russia
-*   ✉️  You can contact me at [elenalemmon@gmail.com](mailto:elenalemmon@gmail.com)
-*   🧠  I'm learning Python 
+*   ✉️  You can contact me by [elenalemmon@gmail.com](mailto:elenalemmon@gmail.com)
+*   🧠  I'm learning Python and SQL
 
 ### Skills 
 <p align="left">
